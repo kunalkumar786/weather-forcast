@@ -140,5 +140,6 @@
     <string name="rain">Rain</string>
     <string name="temperature">Temperature</string>
     <string name="action_graphs">Graphs</string>
+    <string name="test_vcs">Test Vcs </string>
     <string name="about_dialog">1.10\n\nA lightweight, Free Software weather app.\n\nDeveloped by <a href='mailto:kunalkumar891@gmail.com'>Kunal Kumar</a></string>
 </resources>
